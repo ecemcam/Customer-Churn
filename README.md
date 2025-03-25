@@ -28,7 +28,6 @@ The goal is to analyze churn patterns by customer behavior, demographics, and su
 ##  Data Cleaning & Feature Engineering
 
 Performed in `Cleaning&EDA.sql`:
-- Converted tenure from months to years
 - Handled missing values and formatted categorical fields
 - Created binary flags for multiple services
 - Encoded `Churn` for use in charts and ML pipelines
