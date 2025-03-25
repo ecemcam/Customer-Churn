@@ -70,6 +70,7 @@ Performed in `Cleaning&EDA.sql`:
 ├── CustomerChurn.pbix               # Power BI Dashboard
 ├── customerchurnDatabase.sql       # Raw schema and sample data
 ├── Cleaning&EDA.sql                # Data cleaning & transformations
+├── WA_Fn-UseC_-Telco-Customer-Churn.csv     # Source Data CSV File
 └── README.md                       # Project documentation (this file)
 ```
 ### Dashboard 
