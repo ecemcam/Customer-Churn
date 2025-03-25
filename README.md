@@ -35,15 +35,15 @@ Performed in `Cleaning&EDA.sql`:
 
 ---
 
-## 📈 Power BI Dashboard Features
+## Power BI Dashboard Features
 
-### 🔍 Key Metrics:
+###  Key Metrics:
 - **Overall Churn Rate**
 - **Monthly Active vs. Churned Customers**
 - **Churn Rate by Contract Type, Tenure, and Payment Method**
 - **Revenue at Risk** from churned customers
 
-### 📊 Visuals Include:
+### Visuals Include:
 - Line chart: Churn Rate over Tenure 
 - Bar charts: Churn by Contract, Internet Service, Payment Method
 - Stacked charts: Customer Distribution by Tenure Group & Churn
